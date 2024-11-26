@@ -1,3 +1,3 @@
 You will have to rewrite some code in the tool to configure your gmail email address and password and then configure the csv file with email to attack and the message to send
 
-![logo_gmail_mass](https://github.com/user-attachments/assets/dc30d1f0-7598-4f3a-8ea9-2c7ef9658083)
+![logo_gmail_mass (1)](https://github.com/user-attachments/assets/318e7059-20f1-4d0b-a4ef-3107708d63cb)
