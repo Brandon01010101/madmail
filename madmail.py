@@ -62,4 +62,4 @@ if __name__ == "__main__":
 
     print("Start sending bulk emails 📩📨")
     envoyer_emails_en_masse(fichier_csv, sujet)
-    print("Sending Completed 📪 Thank you for using this program created by Gentleman 💻👍")
+    print("Sending Completed 📪 Thank you for using this program created by https://linktr.ee/Brandon008 💻👍")
