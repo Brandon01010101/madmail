@@ -1,2 +1,2 @@
-pip3 install smtplib
-pip3 install secure-smtplib
+pip install smtplib
+pip install secure-smtplib
